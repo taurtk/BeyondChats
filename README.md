@@ -58,18 +58,3 @@ This project is deployed on Vercel.
 
 You can access the live demo here: https://beyound-chats.vercel.app/.
 
-UI/UX Evaluation
-Color Scheme, Theme, UI (5 pts)
-UX (5 pts)
-Desktop UI (5 pts)
-Mobile UI (5 pts)
-Transitions & Animations (5 pts)
-Intuitiveness (5 pts)
-WOW Factor (5 pts)
-Coding Best Practices & Readability (10 pts)
-Future Improvements
-Implement actual backend services for auto-fetching metadata and training the chatbot.
-More sophisticated UI/UX enhancements with advanced animations.
-User authentication with backend API integration.
-Contributing
-Feel free to fork this repository and create pull requests if you have suggestions or improvements.
